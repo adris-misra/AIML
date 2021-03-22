@@ -1,2 +1,3 @@
-# gl-pgp-aiml-uta-intl-aug20-adris-misra
-gl-pgp-aiml-uta-intl-aug20-adris-misra created by GitHub Classroom
+# Adris Misra - AI & ML Public Projects
+Portfolio for project details: https://eportfolio.greatlearning.in/adris-misra
+
